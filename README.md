@@ -1,4 +1,4 @@
-# 🏀 NCAA Tournament Seed Prediction — XGBoost Regression
+# NCAA Tournament Seed Prediction — XGBoost Regression
 
 Predicts NCAA Men's Basketball Tournament seeds (1–68) for all 68 tournament teams using team performance metrics, NET rankings, strength of schedule, and quadrant win-loss records.
 
